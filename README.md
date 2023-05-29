@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.adiletaskar.kz](https://www.adiletaskar.kz)
 
-- 📫 How to reach me **a4912520@gmail.com**
+- 📫 How to reach me **adiletaskar1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
