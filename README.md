@@ -9,7 +9,8 @@
 </p>
 
 - 👨‍💻 All of my projects are available at
-[https://www.adiletaskar.kz](https://www.adiletaskar.kz) - 📫 How to reach me
+[https://www.adiletaskar.kz](https://www.adiletaskar.kz) 
+- 📫 How to reach me
 **adiletaskar1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
