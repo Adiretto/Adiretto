@@ -8,22 +8,9 @@
   />
 </p>
 
-- 👨‍💻 All of my projects are available at
-[https://www.adiletaskar.kz](https://www.adiletaskar.kz) 
+
 - 📫 How to reach me
 **adiletaskar1@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/adilet-askar-16a754259" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="adilet-askar-16a754259"
-      height="30"
-      width="40"
-  /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
