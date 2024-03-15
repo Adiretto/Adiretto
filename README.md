@@ -12,7 +12,7 @@
 
 <a href="adiletaskar1@gmail.com">gmail</a>
 <br/>
-<a hred="https://t.me/adiletaskar">telegram</a>
+<a href="https://t.me/adiletaskar">telegram</a>
 
 
 <h3 align="left">GitHub Stats:</h3>
