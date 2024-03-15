@@ -9,7 +9,9 @@
 </p>
 
 <h4>📫 How to reach me</h4>
+
 <a href="adiletaskar1@gmail.com">gmail</a>
+<br/>
 <a hred="https://t.me/adiletaskar">telegram</a>
 
 
