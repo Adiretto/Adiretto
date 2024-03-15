@@ -10,9 +10,9 @@
 
 <h4>📫 How to reach me</h4>
 
-<a href="adiletaskar1@gmail.com">gmail</a>
+Gmail: **adiletaskar1@gmail.com**
 <br/>
-<a href="https://t.me/adiletaskar">telegram</a>
+Telegram: **https://t.me/adiletaskar**
 
 
 <h3 align="left">GitHub Stats:</h3>
