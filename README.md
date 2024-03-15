@@ -9,8 +9,9 @@
 </p>
 
 <h4>📫 How to reach me</h4>
-- **adiletaskar1@gmail.com**
-- **https://t.me/adiletaskar**
+**adiletaskar1@gmail.com**
+<br></br>
+**https://t.me/adiletaskar**
 
 
 <h3 align="left">GitHub Stats:</h3>
